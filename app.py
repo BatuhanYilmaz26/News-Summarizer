@@ -1,4 +1,3 @@
-from numpy import number
 import streamlit as st
 from streamlit_lottie import st_lottie
 from newspaper import Article
