@@ -1,0 +1,7 @@
+Pillow
+newspaper3k
+urllib3
+streamlit
+streamlit_lottie==0.0.3
+beautifulsoup4
+protobuf==3.20.0
