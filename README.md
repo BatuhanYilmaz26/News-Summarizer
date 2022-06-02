@@ -7,3 +7,5 @@
 - Categorized the news as trending news, favorite topics or you can search a topic of your choice.
 - Fetched news, news posters and summarized the news using [Newspaper3k](https://newspaper.readthedocs.io/en/latest/) library.
 - Built the web app using [Streamlit](https://streamlit.io) and deployed it on [Streamlit Cloud](https://share.streamlit.io).
+
+![](news_summarizer.gif)
